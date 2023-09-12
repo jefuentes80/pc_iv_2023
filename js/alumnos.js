@@ -66,10 +66,10 @@ export let alumnos = [
         github: ""
     },
     {
-        img: "",
-        user_name: "Mayen",
-        descripcion: "",
-        github: ""
+        img: "https://t3.ftcdn.net/jpg/00/49/07/44/360_F_49074436_06FMnQ327XKsjqG6NgjANWzAUWxvStGI.jpg",
+        user_name: "jemayen",
+        descripcion: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium illum cumque tempore. Expedita aut corporis tempore debitis fuga eius excepturi et distinctio quae nobis vitae nisi, similique vero omnis consectetur?",
+        github: "https://github.com/gODHyDRaX"
     },
     {
         img: "",
