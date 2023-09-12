@@ -84,10 +84,10 @@ export let alumnos = [
         github: "https://github.com/marelinguzman"
     },
     {
-        img: "",
-        user_name: "Eduardo",
-        descripcion: "",
-        github: ""
+        img: "https://definicion.de/wp-content/uploads/2019/07/perfil-de-usuario.png",
+        user_name: "eaajcajon",
+        descripcion: "Lorem ipsum dolor sit amet consectetur adipisicing elit. In ratione velit, sit ipsum nobis natus alias labore praesentium fuga, qui deleniti, illo rem tempore odio accusamus quisquam minus sequi ex.",
+        github: "https://github.com/EduardoAjcajon"
     },
     {
         img: "",
