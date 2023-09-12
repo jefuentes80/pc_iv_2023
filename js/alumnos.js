@@ -78,10 +78,10 @@ export let alumnos = [
         github: ""
     },
     {
-        img: "",
-        user_name: "Marilis",
-        descripcion: "",
-        github: ""
+        img: "https://i.pinimg.com/originals/49/94/62/499462b4b7f1c4f559fc6b6bd217cd68.png",
+        user_name: "mcguzman",
+        descripcion: "Hola, mundo. Soy marelin, tengo 16 años, me gusta leer, me gusta el té frio de franbuesa",
+        github: "https://github.com/marelinguzman"
     },
     {
         img: "",
