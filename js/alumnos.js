@@ -48,10 +48,10 @@ export let alumnos = [
         github: ""
     },
     {
-        img: "",
-        user_name: "David",
-        descripcion: "",
-        github: ""
+        img: "https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png",
+        user_name: "DAVID0205J",
+        descripcion: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae minima dolor, veniam qui suscipit provident quae, architecto deleniti non nisi vel est quam consectetur autem, eveniet sit totam nesciunt molestias!",
+        github: "https://github.com/DAVID0205J"
     },
     {
         img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv3R70M0tdsXHwNhga4pGeP2F8kB6FWVbZSQ&usqp=CAU",
