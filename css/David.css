@@ -1,0 +1,41 @@
+.perfil{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    gap: 1rem;
+    margin-left: 2rem;
+    font-family: sans-serif;
+    font-size: 2rem;
+
+}
+.items{
+
+    border: 1rem solid #413e3e;
+    margin-top: 2rem;
+    display: flex;
+    width: 35rem;
+    height: 45rem;
+
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+
+}
+.T{
+    margin-top: 2rem;
+    width: 14rem;
+    height: 5rem;
+
+}
+.img{
+    display: flex;
+    align-items: center;
+    margin-top :1rem ;
+    width: 10rem;
+    height: 12rem;
+}
+.desc{
+    margin-top:1rem ;
+    width: 30rem;
+    height: 20rem;
+}
