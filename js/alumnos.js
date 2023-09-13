@@ -24,10 +24,10 @@ export let alumnos = [
         github: ""
     },
     {
-        img: "",
-        user_name: "Dana",
-        descripcion: "",
-        github: ""
+        img: "https://i.pinimg.com/1200x/95/9c/47/959c47aaf3c42fda1f03b107899f96d7.jpg",
+        user_name: "Danna",
+        descripcion: "Hola gente ",
+        github: "https://github.com/mishelldc"
     },
     {
         img: "",
