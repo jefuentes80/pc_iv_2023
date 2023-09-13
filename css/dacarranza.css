@@ -1,0 +1,22 @@
+.conte{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    margin: auto;
+    padding: 2rem;
+}
+
+.items{
+    background-color:#54C3EA;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 2rem;
+    font-size: 1rem;
+}
+
+.ftito{
+    width:10rem ;
+    height: 10rem;
+}
