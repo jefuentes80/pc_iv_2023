@@ -1,4 +1,8 @@
 .contenedor{
+    display: grid;
+    grid-template-columns: repeat(5, 20rem);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 1rem;
     justify-self: center;
     align-content: center;
     padding: 1rem 1rem;
@@ -22,7 +26,7 @@
     justify-self: center;
     align-self: center;
     width: 19rem;
-    height: 19rem;
+    height: 13em;
     border-radius: 1rem;
 }
 .boton{
