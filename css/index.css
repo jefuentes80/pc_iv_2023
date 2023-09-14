@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .contenido_perfil {
 
     display: grid;
@@ -8,4 +9,25 @@
 
 .contenido_perfil .header {
     background-color: red;
+=======
+.contenido_perfil {
+
+    display: grid;
+    grid-template-columns: 30rem 1fr;
+    grid-template-rows: 100vh;
+
+}
+
+.contenido_perfil .header{
+    border-right: 1px solid rgb(97, 97, 97);
+}
+.contenido_perfil .header #perfil {
+    height: 100%;
+    display: grid;
+    gap: 2rem;
+    padding: 2rem;
+    grid-template-columns: 100%;
+    grid-template-rows: 20rem 3rem 1fr 2rem;
+    justify-items: center;
+>>>>>>> f88ef90ef100aa62e4aba53ddb0602b1eb19b7f4
 }
