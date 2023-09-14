@@ -1,3 +1,8 @@
+.contenedor{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 2rem;
+}
 .items{
     margin-left: 2rem;
     width: 22rem;
