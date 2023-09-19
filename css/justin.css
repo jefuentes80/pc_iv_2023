@@ -3,7 +3,7 @@
     max-width: 48rem;
     max-height: 48rem;
     display: grid;
-    grid-template-columns: 30rem 1fr 1fr 1fr;
+    grid-template-columns: 30rem 1fr 1fr ;
     gap: 1rem;
 }
 .cuadro {
