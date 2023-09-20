@@ -2,7 +2,7 @@ export let alumnos = [
     {
         img: "https://d500.epimg.net/cincodias/imagenes/2016/07/04/lifestyle/1467646262_522853_1467646344_noticia_normal.jpg",
         user_name : "jefuentes",
-        descripcion: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit, veritatis nisi. Ducimus quaerat perspiciatis neque illo quam? Aperiam nemo animi esse placeat eum possimus, cum, quas mollitia harum alias sunt?",
+        descripcion: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit, veritatis nisi. Ducimus quaerat perspiciatis neque illo quam? Aperiam nemo animi esse placeat eum po",
         github: "https://github.com/jefuentes80"
     },
     {
@@ -61,9 +61,9 @@ export let alumnos = [
     },
     {
         img: "https://i.blogs.es/4d5a9c/spiderman-4/1366_2000.jpeg ",
-        user_name: "Emanuel",
+        user_name: "emanuel",
         descripcion: "Soy spiderman(Emanuel Ordoñez)",
-        github: "Enlace del github"
+        github: "https://github.com/jefuentes80/pc_iv_2023/tree/eeordonez"
     },
     {
         img: "",

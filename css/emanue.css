@@ -3,4 +3,6 @@
     background-color: red;
     display: grid;
     flex-wrap: wrap;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
 }
