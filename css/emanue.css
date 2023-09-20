@@ -1,0 +1,6 @@
+.perfil{
+
+    background-color: red;
+    display: grid;
+    flex-wrap: wrap;
+}
