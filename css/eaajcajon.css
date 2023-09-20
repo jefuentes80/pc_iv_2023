@@ -29,6 +29,16 @@
     height: 13em;
     border-radius: 1rem;
 }
+.cuadrado4 img{
+    width: 10rem;
+}
+.cuadrado7 img{
+    height: 16rem;
+    border-radius: 0;
+}
+.cuadrado7 section {
+    margin-top: 2rem;
+}
 .boton{
     display: flex;
     justify-content: center;
