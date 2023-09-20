@@ -1,22 +1,18 @@
 .conte{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2rem;
-    margin: auto;
-    padding: 2rem;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    gap: 1rem;
 }
-
 .items{
-    background-color:#54C3EA;
-    color: white;
-    border-radius: 10px;
     border: 1px solid black;
-    text-align: center;
-    padding: 2rem;
-    font-size: 1rem;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-.ftito{
-    width:10rem ;
-    height: 10rem;
+.items .ftito{
+    width: 15rem;
+    height: 15rem;
 }
