@@ -55,7 +55,7 @@ export let alumnos = [
     },
     {
         img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv3R70M0tdsXHwNhga4pGeP2F8kB6FWVbZSQ&usqp=CAU",
-        user_name: "Cristian",
+        user_name: "cehernandez",
         descripcion: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel est adipisci veniam sit fugit expedita voluptas dicta aut cupiditate provident quasi, voluptatibus temporibus ab placeat? Cumque nemo explicabo dolorum est. ",
         github: "https://github.com/cris2265"
     },
