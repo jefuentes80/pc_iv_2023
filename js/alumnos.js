@@ -72,10 +72,10 @@ export let alumnos = [
         github: ""
     },
     {
-        img: "",
-        user_name: "Katherin",
-        descripcion: "",
-        github: ""
+        img: "https://i.pinimg.com/564x/33/e3/67/33e3675d73726d877b1114e29f80cdfe.jpg",
+        user_name: "kgarcia",
+        descripcion: "Estoy en la carrera de Bachillerato en Ciencias y Letras en Orientación en Computación, me gusta leer en mis tiempos libres y pintar atardeceres, me gusta la música en inglés y tambien la reposteria.",
+        github: "https://github.com/kgarcia18"
     },
     {
         img: "",

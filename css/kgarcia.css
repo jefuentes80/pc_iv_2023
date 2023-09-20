@@ -1,0 +1,29 @@
+.contenedor{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 2rem;
+}
+.items{
+    margin-left: 2rem;
+    width: 22rem;
+    height: 22rem;
+    padding: 1rem;
+    border: 1px solid black;
+}
+.img{
+    width: 20rem;
+    height: 10rem;
+}
+.items h4{
+    margin-top: 1rem;
+}
+
+.items p{
+margin-top: 1.5rem;
+}
+.items input{
+    margin-top: 3rem;
+    width: 5rem;
+    height: 2rem;
+    margin-left: 13rem;
+}
