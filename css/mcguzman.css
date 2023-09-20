@@ -1,28 +1,32 @@
 .perfil{
     max-width: 100%;
+}
+.proyectos{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    grid-template-rows: repeat(3, 1fr);
+    gap: 2rem;
+    margin: 1rem;
 }
-.proyecto_uno{
+.items{
+    margin-left: 2rem;
+    width: 29rem;
+    height: 22rem;
     padding: 1rem;
-    width: 42.5rem;
-    border: 0.5px solid rgb(95, 95, 95);
-    border-radius: 3px;
-    margin: 2rem;
+    border: 1px solid black;
 }
-.img_uno{
-    width: 40rem;
-    height: 15rem;
-    border-radius: 1rem;
+
+.items img{
+    width: 26.5rem;
+    height: 10rem;
 }
-.titulo_uno{
-    display: flex;
-    justify-content: space-around;
+.items h3{
+    margin-top: 1rem;
 }
-.des_uno{
-    padding-top: 0.5rem;
+.texto{
+    margin-top: 1rem;
+    height: 4rem;
 }
-.boton_uno{
-   margin-left: 33rem;
+.items input{
+    width: 6rem;
+    margin-left: 20rem;
 }
