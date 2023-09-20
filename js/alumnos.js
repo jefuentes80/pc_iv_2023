@@ -49,7 +49,7 @@ export let alumnos = [
     },
     {
         img: "https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png",
-        user_name: "DAVID0205J",
+        user_name: "David",
         descripcion: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae minima dolor, veniam qui suscipit provident quae, architecto deleniti non nisi vel est quam consectetur autem, eveniet sit totam nesciunt molestias!",
         github: "https://github.com/DAVID0205J"
     },
