@@ -12,10 +12,10 @@ export let alumnos = [
         github: ""
     },
     {
-        img: "",
-        user_name: "jimena",
-        descripcion: "",
-        github: ""
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_zscLyags_CmOZqp0IL3TiHdfVNp99S23w&usqp=CAU",
+        user_name: "Jimena",
+        descripcion: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis repellat quod tenetur aut deserunt accusantium iste nisi illo dolorem incidunt, aliquam ipsum temporibus deleniti possimus quaerat maxime? Exercitationem, doloribus at.",
+        github: "https://github.com/jimejuarezv"
     },
     {
         img: "",
