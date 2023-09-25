@@ -18,7 +18,7 @@ export let alumnos = [
         github: "https://github.com/jimejuarezv"
     },
     {
-        img: "https://static.vecteezy.com/system/resources/previews/023/450/374/original/winnie-the-pooh-poses-baby-free-vector.jpg",
+        img: "https://png.pngtree.com/png-vector/20220603/ourlarge/pngtree-oso-de-peluche-amarillo-png-image_4843359.png",
         user_name: "Ashly",
         descripcion: "Hola soy Ashly y estoy aprendiendo computaciòn tengo muchos amigos negros y una amiga blanca, me gusta el basquet y soy negra",
         github: "https://github.com/AshlyRomero"

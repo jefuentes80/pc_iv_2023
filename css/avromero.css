@@ -1,0 +1,45 @@
+.contenido_perfil {
+
+    display: grid;
+    grid-template-columns: 30rem 1fr;
+    grid-template-rows: 100vh;
+
+}
+
+.contenido_perfil .header {
+    background-color: red;
+}
+
+header {
+    background-color: var(--color-primario);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+.main-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.grid-item {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+}
+
+.grid-item img {
+    max-width: 100%;
+    height: auto;
+}
