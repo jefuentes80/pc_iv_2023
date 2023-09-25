@@ -60,8 +60,8 @@ export let alumnos = [
         github: ""
     },
     {
-        img: "https://i.blogs.es/4d5a9c/spiderman-4/1366_2000.jpeg ",
-        user_name: "emanuel",
+        img: "https://i.pinimg.com/564x/72/7d/68/727d682a963487adb5697b63bb0d8236.jpg ",
+        user_name: "Emanuel",
         descripcion: "Soy spiderman(Emanuel Ordoñez)",
         github: "https://github.com/jefuentes80/pc_iv_2023/tree/eeordonez"
     },
