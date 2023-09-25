@@ -18,11 +18,13 @@
     transform: scale(1.1); 
 }
 .perfil{
-    padding: 3rem;
+    margin-top: 5rem;
+    gap: 5rem;
     display: grid;
     grid-template-columns: repeat(3,1fr );
     grid-template-rows:repeat(3,1fr) ;
     flex-wrap: wrap;
+
      
 }
 .titulo{
