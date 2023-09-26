@@ -24,9 +24,9 @@ export let alumnos = [
         github: "https://github.com/AshlyRomero"
     },
     {
-        img: "https://i.pinimg.com/1200x/95/9c/47/959c47aaf3c42fda1f03b107899f96d7.jpg",
+        img: "https://i.pinimg.com/564x/ab/eb/25/abeb256c5e222096f88297f1bc1afe3f.jpg",
         user_name: "dmosorio",
-        descripcion: "Hola gente",
+        descripcion: "Hola gente soy reservada con personalidad calida y gentil, algo introvertida pero ya en confianza puedo ser genuina y amigable",
         github: "https://github.com/mishelldc"
     },
     {
