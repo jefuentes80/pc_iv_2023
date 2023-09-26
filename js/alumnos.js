@@ -19,7 +19,7 @@ export let alumnos = [
     },
     {
         img: "https://png.pngtree.com/png-vector/20220603/ourlarge/pngtree-oso-de-peluche-amarillo-png-image_4843359.png",
-        user_name: "Ashly",
+        user_name: "avromero",
         descripcion: "Hola soy Ashly y estoy aprendiendo computaciòn tengo muchos amigos negros y una amiga blanca, me gusta el basquet y soy negra",
         github: "https://github.com/AshlyRomero"
     },
