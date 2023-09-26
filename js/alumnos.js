@@ -18,10 +18,10 @@ export let alumnos = [
         github: "https://github.com/jimejuarezv"
     },
     {
-        img: "",
+        img: "https://png.pngtree.com/png-vector/20220603/ourlarge/pngtree-oso-de-peluche-amarillo-png-image_4843359.png",
         user_name: "Ashly",
-        descripcion: "",
-        github: ""
+        descripcion: "Hola soy Ashly y estoy aprendiendo computaciòn tengo muchos amigos negros y una amiga blanca, me gusta el basquet y soy negra",
+        github: "https://github.com/AshlyRomero"
     },
     {
         img: "https://i.pinimg.com/1200x/95/9c/47/959c47aaf3c42fda1f03b107899f96d7.jpg",
