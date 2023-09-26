@@ -1,28 +1,28 @@
-.perfil{
-    max-width: 100%;
+.proyectos{
     display: grid;
-    grid-template-columns: repeat(3,1fr);
-    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(2,1fr);
+    gap: 2rem;
 }
-.proyecto_uno{
+.proyecto{
     padding: 1rem;
-    width: 42.5rem;
+    width: 45rem;
+    height: 20rem;
     border: 0.5px solid rgb(95, 95, 95);
     border-radius: 3px;
     margin: 2rem;
 }
-.img_uno{
-    width: 40rem;
-    height: 15rem;
+.img{
+    width: 20rem;
+    height: 10rem;
     border-radius: 1rem;
 }
-.titulo_uno{
+.titulo{
     display: flex;
     justify-content: space-around;
 }
-.des_uno{
+.descripción{
     padding-top: 0.5rem;
 }
-.boton_uno{
-   margin-left: 33rem;
+.boton{
+   margin-left: 18rem;
 }
