@@ -1,0 +1,35 @@
+.cajita{
+    border: 1px solid #070707;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    box-shadow: 5px 4px 10px rgb(214, 133, 240);
+    transition: transform 0.2s ease;
+    text-align: center;
+    background-color: beige;
+}
+.cajita:hover{
+    transform: scale(1.05);
+}
+.perfil{
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    
+}
+.info{
+    font-size: 14px;
+    color: gray;
+    margin-top: 5px;
+}
+.name{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.img{
+    max-width: 100%;
+    height: auto;
+}
