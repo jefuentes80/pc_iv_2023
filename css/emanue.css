@@ -30,7 +30,7 @@ font-family: 'Work Sans', sans-serif; */
 }
 .deco1{
     display: flex;
-    flex-direction: ro;
+    flex-direction: row;
 }
 .cajita:hover{
     zoom: normal;
@@ -125,8 +125,4 @@ font-family: 'Work Sans', sans-serif; */
     align-self: center;
     margin-left: 2rem;
     font-family: 'Mooli', sans-serif;
-}
-.ventana{
-    position: fixed;
-    
 }
