@@ -1,0 +1,402 @@
+/* font-family: 'Fira Sans', sans-serif;
+font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Mooli', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif; */
+.perfil{
+    max-width: 100%;
+    height: 100%;
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 2rem;
+
+    font-family: 'Mooli', sans-serif;
+}
+.cajita{
+    margin: auto;
+    margin-top: 2rem;
+    width: 31rem;
+    height: 30rem;
+    border-radius: 3px;
+    background-image: linear-gradient(60deg, #13855f 0%, #ddc943 100%);
+   display: flexbox;
+    box-shadow: 2px 2px 12px black;
+    border-radius: 1rem;
+    
+}
+.deco1{
+    display: flex;
+    flex-direction: row;
+}
+.cajita:hover{
+    zoom: normal;
+}
+.img1{
+    max-width: 100%;
+    height: 19rem;
+    overflow: hidden;
+    border-radius: 1rem 1rem 0rem 0rem;
+    text-align: center;
+    transition: transform 0.3s ease;
+
+}
+.img1:hover {
+    transform: scale(1.1);
+}
+.img1 img{
+    max-width: 100%;
+    height: 100%;
+    display: block;
+}
+.gif img{
+    margin-top: 1.5rem;
+    max-width: 100%;
+    width: 8rem;
+    height: 8rem;
+
+}
+.gif{
+   
+}
+.span1{
+    align-self: center;
+    margin-left: 2rem;
+    font-size: 1.5rem;
+    display: grid;
+    color: white;
+    font-family: 'Mooli', sans-serif;
+}
+.title{
+    font-size: 11.5px;
+}
+.nombre{
+    margin-top: 1rem;
+    font-size: 2rem;
+}
+/* ----------------------------------------------- */
+.cta{
+    display: inline-block;
+    text-decoration: none;
+    width: 8rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3ea07a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    box-shadow: 1.5px 1.5px 2px black;
+}
+.cta:hover {
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 2px black;
+
+}
+
+
+.cta2{
+    display: inline-block;
+    text-decoration: none;
+    width: 8rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3ea07a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    box-shadow: 1.5px 1.5px 2px black;
+}
+.cta2:hover {
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 2px black;
+
+}
+
+.cta3{
+    display: inline-block;
+    text-decoration: none;
+    width: 8rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3ea07a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    box-shadow: 1.5px 1.5px 2px black;
+}
+.cta3:hover {
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 2px black;
+
+}
+.cta4{
+    display: inline-block;
+    text-decoration: none;
+    width: 8rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3ea07a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    box-shadow: 1.5px 1.5px 2px black;
+}
+.cta4:hover {
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 2px black;
+
+}
+.cta5{
+    display: inline-block;
+    text-decoration: none;
+    width: 8rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3ea07a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    box-shadow: 1.5px 1.5px 2px black;
+}
+.cta5:hover {
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 2px black;
+
+}
+.cta6{
+    display: inline-block;
+    text-decoration: none;
+    width: 8rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3ea07a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    box-shadow: 1.5px 1.5px 2px black;
+}
+.cta6:hover {
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 2px black;
+
+}
+.cta7{
+    display: inline-block;
+    text-decoration: none;
+    width: 8rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3ea07a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    box-shadow: 1.5px 1.5px 2px black;
+}
+.cta7:hover {
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 2px black;
+
+}
+.cta8{
+    display: inline-block;
+    text-decoration: none;
+    width: 8rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3ea07a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    box-shadow: 1.5px 1.5px 2px black;
+}
+.cta8:hover {
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 2px black;
+
+}
+.cta9{
+    display: inline-block;
+    text-decoration: none;
+    width: 8rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3ea07a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    box-shadow: 1.5px 1.5px 2px black;
+}
+.cta9:hover {
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 2px black;
+
+}
+.cta10{
+    display: inline-block;
+    text-decoration: none;
+    width: 8rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3ea07a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    box-shadow: 1.5px 1.5px 2px black;
+}
+.cta10:hover {
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 2px black;
+
+}
+.cta11{
+    display: inline-block;
+    text-decoration: none;
+    width: 8rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3ea07a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    box-shadow: 1.5px 1.5px 2px black;
+}
+.cta11:hover {
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 2px black;
+
+}
+.cta12{
+    display: inline-block;
+    text-decoration: none;
+    width: 8rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3ea07a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    box-shadow: 1.5px 1.5px 2px black;
+}
+.cta12:hover {
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 2px black;
+
+}
+/* ---------------------------------------------- */
+
+.botonB {
+    box-shadow: 1.5px 1.5px 2px black;
+
+    width: 10rem;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:#3ea07a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    margin-top: 1rem;
+    
+}
+.botonB:hover {
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 2px black;
+
+}
+.botonB a{
+    color: #fff;
+    text-decoration: none;
+}
+.boton1{
+    align-self: center;
+    margin-left: 2rem;
+    font-family: 'Mooli', sans-serif;
+}
+.modal-container{
+    opacity: 0;
+    visibility: hidden;
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background: rgb( 0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.modal{
+    width: 40%;
+    height: 40%;
+    background: white;
+    text-align: center;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    transition: transform 1s;
+    transform: translateY(0%);
+    border-radius: 10px;
+}
+.modal > img{
+height: 50%;
+}
+.modal-close{
+    transform: translateY(-200%); 
+}
+.close{
+    position: relative;
+    justify-items: end;
+    top: 1px;
+    right: 1px;
+    left: 52rem;
+    width: 25px;
+    height: 25px;
+    background: rgb(221, 74, 74);
+    color: white;
+    line-height: 25px;
+    cursor: pointer;
+    border-radius: 50%;
+}

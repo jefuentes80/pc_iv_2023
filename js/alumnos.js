@@ -60,10 +60,10 @@ export let alumnos = [
         github: "https://github.com/cris2265"
     },
     {
-        img: "",
-        user_name: "Estuardo",
-        descripcion: "",
-        github: ""
+        img: "https://i.pinimg.com/564x/72/7d/68/727d682a963487adb5697b63bb0d8236.jpg ",
+        user_name: "Emanuel",
+        descripcion: "Soy spiderman(Emanuel Ordoñez)",
+        github: "https://github.com/jefuentes80/pc_iv_2023/tree/eeordonez"
     },
     {
         img: "",
