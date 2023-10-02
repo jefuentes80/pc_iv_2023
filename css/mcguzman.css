@@ -1,0 +1,28 @@
+.perfil{
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+.proyecto_uno{
+    padding: 1rem;
+    width: 42.5rem;
+    border: 0.5px solid rgb(95, 95, 95);
+    border-radius: 3px;
+    margin: 2rem;
+}
+.img_uno{
+    width: 40rem;
+    height: 15rem;
+    border-radius: 1rem;
+}
+.titulo_uno{
+    display: flex;
+    justify-content: space-around;
+}
+.des_uno{
+    padding-top: 0.5rem;
+}
+.boton_uno{
+   margin-left: 33rem;
+}
