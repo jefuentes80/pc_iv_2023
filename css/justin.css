@@ -4,7 +4,7 @@
     max-height: 48rem;
     display: grid;
     grid-template-columns: 30rem 1fr 1fr ;
-    gap: 1rem;
+    gap: 3em;
 }
 .cuadro {
     width: 30rem;
