@@ -36,10 +36,10 @@ export let alumnos = [
         github: "https://github.com/JUSTINRR88"
     },
     {
-        img: "",
-        user_name: "Josue",
-        descripcion: "",
-        github: ""
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rAeS_UF92GQl4geYTCUy8i-CE60e4ZKljA&usqp=CAU",
+        user_name: "Anleu04",
+        descripcion: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque distinctio voluptate perspiciatis magnam quas itaque maiores, voluptatibus fugit assumenda mollitia quae maxime. Accusantium aut laboriosam ea nostrum eligendi tempore illo.",
+        github: "https://github.com/anleu04"
     },
     {
         img: "",

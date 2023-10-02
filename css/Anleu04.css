@@ -1,0 +1,27 @@
+
+.principal{
+    max-width: 48rem;
+    max-height: 48rem;
+    display: grid;
+    grid-template-columns: 30rem 1fr 1fr ;
+    gap: 1rem;
+}
+.cuadro {
+    width: 30rem;
+    height: 20rem;
+    border: 2px solid #333;
+    padding: 1rem;
+    text-align: center;
+}
+
+
+.cuadro a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.cuadro img {
+    max-width: 50%;
+    max-height: 50%;
+    border-radius: 100%;
+} 
