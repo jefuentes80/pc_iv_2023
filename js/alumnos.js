@@ -66,7 +66,7 @@ export let alumnos = [
         github: ""
     },
     {
-        img: "https://t3.ftcdn.net/jpg/00/49/07/44/360_F_49074436_06FMnQ327XKsjqG6NgjANWzAUWxvStGI.jpg",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP3jDIEGdxB2NTUpU3ZKB-MC19vw3KQ4fxPEXf2boBB6gexqx3qpf5XZbSpcWcKi0fW-8&usqp=CAU",
         user_name: "jemayen",
         descripcion: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium illum cumque tempore. Expedita aut corporis tempore debitis fuga eius excepturi et distinctio quae nobis vitae nisi, similique vero omnis consectetur?",
         github: "https://github.com/gODHyDRaX"
