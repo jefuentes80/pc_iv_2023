@@ -1,28 +1,63 @@
-.perfil{
-    max-width: 100%;
+
+.proyectos{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    grid-template-rows: repeat(3, 1fr);
+    gap: 2rem;
 }
-.proyecto_uno{
+.proyecto{
     padding: 1rem;
-    width: 42.5rem;
+    width: 28rem;
+    height: 27rem;
     border: 0.5px solid rgb(95, 95, 95);
     border-radius: 3px;
     margin: 2rem;
 }
-.img_uno{
-    width: 40rem;
-    height: 15rem;
+.img{
+    width: 25rem;
+    height: 10rem;
     border-radius: 1rem;
 }
-.titulo_uno{
+.imgx{
+    width: 10rem;
+    height: 16rem;
+}
+.img4, .img5{
+    width: 15rem;
+    height: 15rem;
+}
+.img6{
+    width: 23rem;
+    height: 14rem;
+}
+.img8{
+    width: 12rem;
+    height: 15rem;
+}
+.img9{
+    width: 18rem;
+    height: 15rem;
+}
+.img10{
+    width: 10rem;
+    height: 15rem;
+}
+.img11{
+    width: 20rem;
+    height: 15rem;
+}
+.img12{
+    width: 26rem;
+    height: 15rem;
+}
+.titulo{
+    margin-top: 1.5rem;
     display: flex;
     justify-content: space-around;
 }
-.des_uno{
+.descripción{
     padding-top: 0.5rem;
 }
-.boton_uno{
-   margin-left: 33rem;
+.boton{
+   margin-left: 20rem;
+   margin-top: 0.5rem;
 }
